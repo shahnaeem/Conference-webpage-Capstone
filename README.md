@@ -23,7 +23,7 @@ This project is a clone of the website https://www.newsweek.com/,
   
 <h2>Contributing</h2>
 <p>Contributions, issues, and feature requests are welcome!<p>
-<p>Feel free to check the <a href="https://github.com/shahnaeem/conference-webpage/issues/1">issues page.</a></p>
+<p>Feel free to check the <a href="https://github.com/shahnaeem/Conference-webpage-Capstone/issues/1">issues page.</a></p>
  
 <h2>Show your support</h2>
 <p> Give a 
@@ -31,4 +31,4 @@ This project is a clone of the website https://www.newsweek.com/,
   if you like this project!</p>
   
 <h2>License</h2>
-  <p>This project is <a href="https://github.com/shahnaeem/conference-webpage/LICENSE">MIT</a>licensed.<p>
+  <p>This project is <a href="https://github.com/shahnaeem/Conference-webpage-Capstone/LICENSE">MIT</a>licensed.<p>
