@@ -1,6 +1,8 @@
 # Conference-webpage-Capstone
 # Using Bootstrap . Newsweek clone
-This project is a clone of the website https://www.newsweek.com/, 
+This is a Conference-webpage-Capstone project.
+It has three pages , one as an index page , another about page and the tickets page.
+This project has been created using Html5 & css3. For responsive pages bootstrap has been used.
 
 ![screenshot](../assets/screenshot.jpeg)
 
@@ -12,7 +14,7 @@ This project is a clone of the website https://www.newsweek.com/,
 </ul>
 
 <h2>Live demo</h2>
-<a href="https://mricanho.github.io/Using-Bootstrap/">Visit Page</a>
+<a href="https://mricanho.github.io/Using-Bootstrap/">Visit Page</a>1
 
 <h2>Author</h2>
 <p><strong>Mohd Nayeem Shah</strong></p>
