@@ -14,7 +14,7 @@ This project has been created using Html5 & css3. For responsive pages bootstrap
 </ul>
 
 <h2>Live demo</h2>
-<a href="https://mricanho.github.io/Using-Bootstrap/">Visit Page</a>1
+<a href="https://shahnaeem.github.io/Conference-webpage-Capstone/">click here</a>
 
 <h2>Author</h2>
 <p><strong>Mohd Nayeem Shah</strong></p>
@@ -25,7 +25,7 @@ This project has been created using Html5 & css3. For responsive pages bootstrap
   
 <h2>Contributing</h2>
 <p>Contributions, issues, and feature requests are welcome!<p>
-<p>Feel free to check the <a href="https://github.com/shahnaeem/Conference-webpage-Capstone/issues/1">issues page.</a></p>
+<p>Feel free to check the <a href="https://github.com/shahnaeem/Conference-webpage-Capstone/issues/new">issues page.</a></p>
  
 <h2>Show your support</h2>
 <p> Give a 
