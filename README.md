@@ -1,5 +1,4 @@
 # Conference-webpage-Capstone
-# Using Bootstrap . Newsweek clone
 This is a Conference-webpage-Capstone project.
 It has three pages , one as an index page , another about page and the tickets page.
 This project has been created using Html5 & css3. For responsive pages bootstrap has been used.
