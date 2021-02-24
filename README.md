@@ -4,7 +4,7 @@ This is a Conference-webpage-Capstone project.
 It has three pages , one as an index page , another about page and the tickets page.
 This project has been created using Html5 & css3. For responsive pages bootstrap has been used.
 
-![screenshot](../assets/screenshot.jpeg)
+![screenshot](../assets/screenshot.png)
 
 <h2>Built with</h2>
 <ul>
