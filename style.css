@@ -1,23 +1,23 @@
 body,
 html {
- height: 100%;
+  height: 100%;
 }
-  
+
 h1 {
   overflow-y: hidden;
   margin: inherit;
 }
-  
+
 h2 {
   overflow-y: hidden;
   margin: inherit;
 }
-  
+
 h3 {
   overflow-y: hidden;
   margin: inherit;
 }
-  
+
 h5 {
   overflow-y: hidden;
   margin: inherit;
@@ -26,15 +26,15 @@ h5 {
 ul {
   list-style-type: none;
 }
-  
+
 a {
   text-decoration: none;
 }
-  
+
 #top-bar {
   background-color: #272a31;
 }
-  
+
 .program-card .card-icon a {
   display: flex;
   justify-content: center;
@@ -42,14 +42,14 @@ a {
   margin: 0 auto;
   text-align: center;
   }
-  
+
 #top-bar a {
   color: #d3d3d3;
   text-decoration: none;
   margin-right: 10px;
   padding: 5px;
   }
-  
+
 #wide-nav {
   background-color: #fffbfb;
 }
@@ -183,7 +183,7 @@ a {
   text-transform: uppercase;
   font-weight: 800;
 }
-  
+
 .cover-gradient-about .cover-text-about h1 {
   color: #ec5242;
   font-size: 48px;
@@ -200,7 +200,7 @@ a {
   border: 1px solid #fff;
   box-sizing: border-box;
   padding: 7px;
-  box-shadow: 5px #272a31;
+  box-shadow: 5px 10px #272a31;
   background-color: white;
 }
 
@@ -216,7 +216,7 @@ a {
   border: 1px solid #fff;
   box-sizing: border-box;
   padding: 7px;
-  box-shadow: 5px #272a31;
+  box-shadow: 5px 10px #272a31;
   text-align: center;
   background-color: white;
   justify-self: center;
@@ -283,6 +283,10 @@ table {
 
 .ticket-box .my-button {
   margin: 0 auto;
+}
+
+hr {
+  width: 45px;
 }
 
 .ticket-text hr {
@@ -404,7 +408,7 @@ table {
 }
 
 .speaker h3 {
-  font-size: bold;
+  font-weight: bold;
   padding-left: 20px;
 }
 
@@ -437,7 +441,7 @@ table {
 .brand h4 {
   color: #d3d3d3;
   overflow-y: hidden;
-  font-size: bold;
+  font-weight: bold;
 }
 
 #main-footer-intro {
@@ -500,16 +504,12 @@ table {
   opacity: 0.7;
 }
 
-hr {
-  width: 45px;
-}
-
 .bcolor {
   color: #272a31;
 }
 
 .rcolor {
-  color: #Ec5242;
+  color: #ec5242;
 }
 
 .scolor {
@@ -521,24 +521,25 @@ hr {
 }
 
 .rbgcolor {
-  background-color: #Ec5242;
+  background-color: #ec5242;
 }
+
 .badge {
   margin-left: 10px;
 }
 
 .featured {
-    font-family: serif;
-    font-size: 12px;
+  font-family: serif;
+  font-size: 12px;
 }
 
 .circle {
-    padding-left: 350px;
+  padding-left: 350px;
 }
 
 .contact-text {
-    font-family: sans-serif;
-    font-size: 12px;  
+  font-family: sans-serif;
+  font-size: 12px;  
 }
 
 .email {
@@ -548,19 +549,19 @@ hr {
 }
 
 .hrfooter {
-    margin-top: -10px;
-    width:40px;
+  margin-top: -10px;
+  width:40px;
 }
 
 .logos {
-    font-family: Helvetica;
-    font-weight: bold;
-    font-size: 30px;
-    justify-content: space-between;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+  justify-content: space-between;
 }
 
 .list {
-    align-items: flex-end;
+  align-items: flex-end;
 }
 
 .dot {
@@ -571,6 +572,7 @@ hr {
   margin-top: 10px;
   margin-left: 10px;
 }
+
 @media screen and (min-width: 320px) and (max-width: 767px) {
   #top-bar {
     display: none;
@@ -585,7 +587,7 @@ hr {
 
   #wide-nav .navbar li a {
     color: #ec5242;
-    font-size: bold;
+    font-weight: bold;
     margin: -1px;
   }
 
@@ -657,7 +659,7 @@ hr {
   }
 
   .speaker h3 {
-    font-size: bold;
+    font-weight: bold;
     padding-left: 10px;
   }
 
