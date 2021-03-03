@@ -12,6 +12,14 @@ This project has been created using Html5 & css3. For responsive pages bootstrap
   <li>Bootstrap</li>
 </ul>
 
+## Getting Started
+### To run this project:
+- Install a web browser of your choice prefferably Google chrome or mozilla firefox.
+- Launch your webserver and
+- Copy the project files to the webserver folder
+- Open your browser and launch the index.html file
+- Thank you.
+
 <h2>Live demo</h2>
 <a href="https://shahnaeem.github.io/Conference-webpage-Capstone/">click here</a>
 

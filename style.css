@@ -177,6 +177,11 @@ a {
   margin-top: 20px;
 }
 
+.banner {
+  margin: auto;
+  width: 70%;
+}
+
 .cover-gradient .cover-text h1 {
   color: #ec5242;
   font-size: 48px;
